@@ -16,11 +16,6 @@ O projeto engloba um processo de ETL (Extração, Transformação e Carregamento
 ## Próximos Passos:
 Melhorias Futuras: Este projeto pode ser expandido com funcionalidades avançadas de ETL, gráficos para visualização dos dados ou integração com outras fontes de dados.
 
-## Autor:
-*Jonas Salles*
 
 ## Linguagem de programação utilizada:
 - Python 
-
-## Agradecimentos:
-Agradeço à Digital Innovation One pela oportunidade de aprendizado proporcionada pelo Bootcamp de Ciência de Dados.
